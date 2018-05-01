@@ -1,0 +1,8 @@
+
+# Compiled class file
+*.class
+.classpath
+/.classpath
+.project
+.settings
+.DS_Store
